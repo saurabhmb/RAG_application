@@ -26,7 +26,7 @@ RAG (Retrieval Augmented Generation) combines document retrieval with AI generat
 
 1. **Clone and install**
 ```bash
-git clone https://github.com/saurabhmb/RAG_application/tree/main
+git clone https://github.com/saurabhmb/RAG_application.git
 cd RAGApplication
 npm install
 ```
