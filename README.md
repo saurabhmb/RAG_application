@@ -2,6 +2,8 @@
 
 A simple Retrieval Augmented Generation (RAG) application that lets you upload documents and chat with them using AI.
 
+
+
 ## What is RAG?
 
 RAG (Retrieval Augmented Generation) combines document retrieval with AI generation to answer questions based on your specific documents. Instead of relying on the AI's training data, it searches through your uploaded content to provide accurate, source-based answers.
